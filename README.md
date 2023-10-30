@@ -8,4 +8,4 @@ Petter, G.; Zotz, G.; Kreft, H.; Sarmento Cabral, J. (2021). Agent-based modelli
 *Disclaimer* The code and configuration files are not necessarily user friendly (no professional computer scientist here), so please do not hesitate in contacting if you want to apply the model and have trouble figuring out how to specify the configuration file.
 
 For further information, support and project ideas, contact:
-Juliano Sarmento Cabral: juliano.sarmento_cabral@uni-wuerzburg.de
+Juliano Sarmento Cabral: j.sarmentocabral@bham.ac.uk
